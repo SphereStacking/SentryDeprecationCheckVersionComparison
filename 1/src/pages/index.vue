@@ -1,5 +1,6 @@
 <template>
   <div>
+    1
     <button @click="handleClick">
       Test Error Capture Exception
     </button>
