@@ -1,0 +1,2 @@
+# SentryDeprecationCheckVersionComparison
+バージョンの違いによるSentryの非推奨エラーをチェックする
